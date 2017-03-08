@@ -1,0 +1,46 @@
+.top{
+    margin-top:10px;
+}
+.content{
+    margin-top:50px;
+
+}
+.steps{
+    border:2px solid black;
+    background-color: rgb(242,242,242);
+
+}
+.p_Style{
+    display:inline;
+}
+.button_box{
+    display:inline;
+    height: 200px;
+    background-color:rgb(152, 152, 152);
+    border-radius: 20px;
+    border:1px solid grey;
+    text-align: center;
+    vertical-align:middle;
+    font-size: 20px;
+
+
+}
+.numberCircle {
+    display:inline;
+    border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+    color: white;
+    font-size: 20px;
+    width: 36px;
+    height: 36px;
+    padding: 2px;
+    background: rgb(234, 116, 0);
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.glyphicon {
+
+}
